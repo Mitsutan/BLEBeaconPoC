@@ -255,6 +255,8 @@
 				DEVELOPMENT_TEAM = 4UT66M63VB;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "常時送受信";
+				INFOPLIST_KEY_NSBluetoothPeripheralUsageDescription = "ビーコンの発信に必要";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -284,6 +286,8 @@
 				DEVELOPMENT_TEAM = 4UT66M63VB;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "常時送受信";
+				INFOPLIST_KEY_NSBluetoothPeripheralUsageDescription = "ビーコンの発信に必要";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
